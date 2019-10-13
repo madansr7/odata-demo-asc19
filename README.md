@@ -1,2 +1,2 @@
-# odatademo
-OData demo repo
+# OData demo
+OData demo for ASC 2019
